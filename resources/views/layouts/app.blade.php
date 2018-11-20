@@ -84,6 +84,7 @@
     <script src="plugins/fullcalendar/lib/jquery-ui.custom.min.js"></script>
     <script src="plugins/fullcalendar/lib/moment.min.js"></script>
     <script src="plugins/fullcalendar/fullcalendar.js"></script>
+    <script src="plugins/fullcalendar/lang/pt-br.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
     <!-- <script src="plugins/iCheck/icheck.js"></script> -->
     {{-- <script src="{{ elixir('js/app.js') }}"></script> --}}
